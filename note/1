@@ -1,0 +1,53 @@
+学习Scala的意义：
+	1）钱
+	2）做东西： Spark、Kafka、Flink   生态系统
+		优雅
+		开发速度
+		融合到生态圈
+
+
+Scala安装：2.11.8
+	1） Java8
+	2） download scala
+	3） unzip scala
+	4） [option] ~/.bash_profile
+	5） ./scala
+
+
+Scala使用入门
+	int sum = 1 + 2;
+
+
+Scala vs Java  HelloWorld
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("Hello World...");
+	}
+}
+
+Scala每行代码并不强求使用;结束，但是Java是必须的
+object HelloWorld {
+	def main(args : Array[String]) {
+		println("Hello World...") 
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

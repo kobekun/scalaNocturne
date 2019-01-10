@@ -1,0 +1,32 @@
+val vs var
+	val：值    
+		final 
+		val 值名称:类型 = xxx
+	var：变量
+		var 值名称:类型 = xxx
+
+
+Scala基本数据类型
+	Byte/Char
+	Short/Int/Long/Float/Double
+	Boolean
+
+
+Scala IDE
+	IDEA:  需要自己安装Scala插件   重点推荐
+	Eclipse: Scala IDE Eclipse  自带Scala  
+	NetBeans: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

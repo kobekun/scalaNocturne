@@ -1,0 +1,32 @@
+Java/Scala OO
+	封装：属性、方法封装到类中
+		Person: 
+			private int id, String name, Date birthday.....  getter/setter
+			eat、sleep....
+	继承：父类和子类之间的关系
+		User extends Person
+			exam.....
+	多态：***** 父类引用指向子类对象    精髓所在    开发框架的基石
+		Person person = new Person();
+		User user = new User();
+		Person person = new User();
+
+
+
+Trait   xxx extends ATrait with BTrait
+class SparkConf(loadDefaults: Boolean) 
+	extends Cloneable 
+	with Logging 
+	with Serializable
+	...
+	....
+
+
+
+
+
+
+
+
+
+
